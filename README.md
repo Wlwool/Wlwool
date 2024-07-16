@@ -44,6 +44,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Welzewool&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
 ---
 
 
