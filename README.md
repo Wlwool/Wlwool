@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWhnOGIydnB5MTlvY2hxdnU5djN6ZnJ1ZHR3ZGR2dzA3aXVvNGJjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o72F7RrTPW6jymXew/giphy.gif" width="600" height="300"/>
+  <img src="https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif" width="600" height="300"/>
 </div>
 
 ---
