@@ -1,54 +1,69 @@
-## Hi there 👋
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG5laWJjY3M2YzRtaXM1Y254cWVjemU1eG1pbzkybXNwM21zYXN0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eg4q8ka6zQuQ2qgKwe/giphy.gif" width="100"/>
-</div>
+<h1 align="center">Приветствую! 👋</h1>
 
-<div id="badges">
-  <a href="https://youtube.com">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/37796420?v=4" alt="Profile Image" width="200" height="200"/>
+</p>
+
+<h3 align="center">Python Developer</h3>
+
+---
+
+### 👨‍💻 Обо мне:
+
+- 🐍 Я пишу код на Python и активно использую Linux Ubuntu для разработки.
+- 💡 Вдохновляюсь идеями из open-source проектов и учусь чему-то новому каждый день.
+- 🔧 Использую в работе различные библиотеки Python, такие как, Flask, aiogram и многое другое.
+- 🌐 Постоянно совершенствуюсь и ищу новые возможности для роста.
+
+---
+
+### 🛠 Технологии и инструменты:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Статистика:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Welzewool&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Welzewool&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Welzewool&layout=compact&theme=dark" alt="Most Used Languages" />
+</p>
+
+---
+
+### 📫 Как связаться со мной:
+
+<p align="center">
+  <a href="mailto:no-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</div>
-
-<div align="center">
-  <img src="https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif" width="600" height="300"/>
-</div>
-
----
-
-### :man_technologist: About Me :
-- :telescope: I’m working
-
-- :seedling: Exploring programming and Linux every day
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read technical articles and programming
-
-- :mailbox:How to reach me: :(
+  <a href="https://t.me/@dfgqwezxc">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://linkedin.com/in/my-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-</div>
+### 🎯 Мои цели на 2024 год:
 
----
+- ⚙️ Улучшить навыки в Docker и Kubernetes
+- 🌱 Изучить больше возможностей Flask и FastAPI
+- 🧑‍💻 Принять участие в крупных open-source проектах
 
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=Welzewool&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Welzewool&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-
----
-
-
-
-
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coding GIF" width="200"/>
+</p>
 
