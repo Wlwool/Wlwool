@@ -34,8 +34,8 @@
 ### 📊 GitHub Статистика:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Welzewool&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Welzewool&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Welzewool&show_icons=true&theme=dark" alt="GitHub Stats" /> <br /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Welzewool&theme=dark" alt="GitHub Streak" /> <br /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Welzewool&layout=compact&theme=dark" alt="Most Used Languages" />
 </p>
 
