@@ -44,7 +44,7 @@
 ### 📫 Как связаться со мной:
 
 <p align="center">
-  <a href="mailto:no-email@gmail.com">
+  <a href="mailto:buffonishee@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://t.me/@e2e42024">
