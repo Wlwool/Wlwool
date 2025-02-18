@@ -50,7 +50,7 @@
   <a href="https://t.me/@e2e42024">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://linkedin.com/in/my-linkedin">
+  <a href="https://www.linkedin.com/in/wlzwool">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
