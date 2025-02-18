@@ -47,7 +47,7 @@
   <a href="mailto:no-email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://t.me/@dfgqwezxc">
+  <a href="https://t.me/@e2e42024">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://linkedin.com/in/my-linkedin">
