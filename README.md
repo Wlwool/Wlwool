@@ -10,9 +10,10 @@
 
 ### 👨‍💻 Обо мне:
 
-- 🐍 Я пишу код на Python и активно использую Linux Ubuntu для разработки.
+- 🐍 Я пишу код на **Python** и активно использую **Linux Ubuntu** для разработки и деплоя.
 - 💡 Вдохновляюсь идеями из open-source проектов и учусь чему-то новому каждый день.
 - 🔧 Использую в работе различные библиотеки Python, такие как, Flask, aiogram и многое другое.
+- 🗄️ Работаю с **SQL** (PostgreSQL, MySQL) через **SQLAlchemy**.
 - 🌐 Постоянно совершенствуюсь и ищу новые возможности для роста.
 
 ---
@@ -20,13 +21,31 @@
 ### 🛠 Технологии и инструменты:
 
 <p align="center">
+  <!-- Языки и фреймворки -->
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-aiogram-2A9D8F?style=flat-square&logo=aiogram&logoColor=white" />
+  
+  <!-- Базы данных -->
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-4169E1?style=flat-square&logo=sqlalchemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+
+  <!-- DevOps & CI/CD -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+
+  <!-- Testing & Code Quality -->
+  <img src="https://img.shields.io/badge/pytest-000000?style=flat-square&logo=pytest&logoColor=white" />
+
+  <!-- Инструменты и IDE -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCodium-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
 </p>
 
 ---
