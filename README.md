@@ -62,6 +62,7 @@
 - ⚙️ Улучшить навыки в Kubernetes
 - 🌱 Изучить больше возможностей Flask и FastAPI
 - 🧑‍💻 Принять участие в крупных open-source проектах
+- 🌐 Изучить ЯП Golang
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coding GIF" width="200"/>
