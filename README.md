@@ -13,8 +13,7 @@
 - 🐍 Я пишу код на **Python** и активно использую **Linux Ubuntu** для разработки и деплоя.
 - 💡 Вдохновляюсь идеями из open-source проектов и учусь чему-то новому каждый день.
 - 🔧 Использую в работе различные библиотеки Python, такие как, Flask, Aiogram, Playwright, BeautifilSoup и многое другое.
-- 🗄️ Работаю с **SQL** (PostgreSQL) через **SQLAlchemy**.
-- 🧠 Использую **Redis** для кеширования, управления сессиями и работы с очередями задач.
+- 🗄️ Работаю с **SQL-базами** (PostgreSQL, MySQL) через **SQLAlchemy** и использую **Redis** для кеширования и управления очередями задач.
 - 🌐 Постоянно совершенствуюсь и ищу новые возможности для роста.
 
 ---
@@ -28,7 +27,7 @@
   <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/-aiogram-2A9D8F?style=flat-square&logo=aiogram&logoColor=white" />
   
-  <!-- Базы данных -->
+  <!-- Базы данных и хранилища -->
   <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/SQLAlchemy-4169E1?style=flat-square&logo=sqlalchemy&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
