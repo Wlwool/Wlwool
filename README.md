@@ -14,6 +14,7 @@
 - 💡 Вдохновляюсь идеями из open-source проектов и учусь чему-то новому каждый день.
 - 🔧 Использую в работе различные библиотеки Python, такие как, Flask, Aiogram, Playwright, BeautifilSoup и многое другое.
 - 🗄️ Работаю с **SQL** (PostgreSQL) через **SQLAlchemy**.
+- 🧠 Использую **Redis** для кеширования, управления сессиями и работы с очередями задач.
 - 🌐 Постоянно совершенствуюсь и ищу новые возможности для роста.
 
 ---
@@ -32,6 +33,7 @@
   <img src="https://img.shields.io/badge/SQLAlchemy-4169E1?style=flat-square&logo=sqlalchemy&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
 
   <!-- DevOps & CI/CD -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
@@ -65,7 +67,7 @@
   <a href="mailto:wlzwool@inbox.ru">
     <img src="https://img.shields.io/badge/Email-%23D14836?style=flat-square&logoColor=white"/>
   </a>
-  <a href="https://t.me/@e2e42024">
+  <a href="https://t.me/@wlwool">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://www.linkedin.com/in/wlzwool">
