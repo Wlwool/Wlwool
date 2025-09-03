@@ -54,7 +54,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Wlwool&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wlwool&theme=dark" alt="GitHub Streak" /> <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wlwool&layout=compact&theme=dark" alt="Most Used Languages" />
 </p>
 
