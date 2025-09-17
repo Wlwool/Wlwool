@@ -52,8 +52,17 @@
 
 ### 📊 GitHub Статистика:
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Wlwool&show_icons=true&theme=dark" alt="GitHub Stats" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wlwool&layout=compact&theme=dark" alt="Most Used Languages" /> 
+### 📊 GitHub Profile Summary Cards
+
+<p align="center">
+  <img src="https://github-profile-summary-cards-tan.vercel.app/api/cards/profile-details?username=Wlwool&theme=github_dark" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards-tan.vercel.app/api/cards/repos-per-language?username=Wlwool&theme=github_dark" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards-tan.vercel.app/api/cards/most-commit-language?username=Wlwool&theme=github_dark" alt="Most commit language" />
+  <img src="https://github-profile-summary-cards-tan.vercel.app/api/cards/stats?username=Wlwool&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards-tan.vercel.app/api/cards/productive-time?username=Wlwool&theme=github_dark&utcOffset=8" alt="Productive time" />
+</p>
+
+
 </p>
 
 ---
