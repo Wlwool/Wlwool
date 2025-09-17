@@ -53,8 +53,16 @@
 ### 📊 GitHub Статистика:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wlwool&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wlwool&layout=compact&theme=dark" alt="Most Used Languages" />
+  <!-- Общая информация -->
+  <img src="https://raw.githubusercontent.com/Wlwool/Wlwool/main/profile-summary-card-output/transparent/0-profile-details.svg" alt="Profile Details" />
+  
+  <!-- Языки по репозиториям и по коммитам -->
+  <img src="https://raw.githubusercontent.com/Wlwool/Wlwool/main/profile-summary-card-output/transparent/1-repos-per-language.svg" alt="Repos per language" />
+  <img src="https://raw.githubusercontent.com/Wlwool/Wlwool/main/profile-summary-card-output/transparent/2-most-commit-language.svg" alt="Most Commit Language" />
+  
+  <!-- Общая статистика и активность -->
+  <img src="https://raw.githubusercontent.com/Wlwool/Wlwool/main/profile-summary-card-output/dracula/3-stats.svg" alt="Stats" />
+  <img src="https://raw.githubusercontent.com/Wlwool/Wlwool/main/profile-summary-card-output/dracula/4-productive-time.svg" alt="Productive Time" />
 </p>
 
 ---
