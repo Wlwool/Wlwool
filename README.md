@@ -53,11 +53,11 @@
 ### 📊 GitHub Статистика:
 
 <p align="center">
-  <img src="https://github-profile-summary-cards-tan.vercel.app/api/cards/profile-details?username=Wlwool&theme=github_dark" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards-tan.vercel.app/api/cards/repos-per-language?username=Wlwool&theme=github_dark" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards-tan.vercel.app/api/cards/most-commit-language?username=Wlwool&theme=github_dark" alt="Most commit language" />
-  <img src="https://github-profile-summary-cards-tan.vercel.app/api/cards/stats?username=Wlwool&theme=github_dark" alt="Stats" />
-  <img src="https://github-profile-summary-cards-tan.vercel.app/api/cards/productive-time?username=Wlwool&theme=github_dark&utcOffset=8" alt="Productive time" />
+  <img src="https://github-profile-summary-cards-tan.vercel.app/api/cards/profile-details?username=Wlwool&theme=theme=2077" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards-tan.vercel.app/api/cards/repos-per-language?username=Wlwool&theme=theme=2077" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards-tan.vercel.app/api/cards/most-commit-language?username=Wlwool&theme=theme=2077" alt="Most commit language" />
+  <img src="https://github-profile-summary-cards-tan.vercel.app/api/cards/stats?username=Wlwool&theme=theme=2077" alt="Stats" />
+  <img src="https://github-profile-summary-cards-tan.vercel.app/api/cards/productive-time?username=Wlwool&theme=theme=2077&utcOffset=8" alt="Productive time" />
 </p>
 
 
