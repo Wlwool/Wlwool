@@ -52,8 +52,6 @@
 
 ### 📊 GitHub Статистика:
 
-### 📊 GitHub Profile Summary Cards
-
 <p align="center">
   <img src="https://github-profile-summary-cards-tan.vercel.app/api/cards/profile-details?username=Wlwool&theme=github_dark" alt="Profile Details" />
   <img src="https://github-profile-summary-cards-tan.vercel.app/api/cards/repos-per-language?username=Wlwool&theme=github_dark" alt="Repos per language" />
