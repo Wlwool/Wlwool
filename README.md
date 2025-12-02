@@ -81,7 +81,7 @@
 
 ---
 
-### 🎯 Мои цели на 2025 год:
+### 🎯 Мои цели на 2026 год:
 
 - ⚙️ Улучшить навыки в Kubernetes
 - 🌱 Изучить больше возможностей FastAPI
@@ -89,6 +89,6 @@
 - 🌐 Изучить ЯП Golang
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coding GIF" width="200"/>
+
 </p>
 
