@@ -4,8 +4,8 @@
 ---
 
 ### 👨‍💻 Обо мне:
-- Python разработчик. Linux, PostgreSQL, Redis.
-- Стек: Flask, Aiogram, Playwright, BeautifulSoup, SQLAlchemy.
+- Python разработчик.
+- Стек: Flask, Aiogram,PostgreSQL, Redis, Playwright, BeautifulSoup, SQLAlchemy, Linux.
 
 ---
 
