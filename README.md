@@ -56,7 +56,7 @@
 
 ---
 
-### 📫 Как связаться со мной:
+### 📫 Связь:
 
 <p align="center">
   <a href="mailto:wlzwool@inbox.ru">
