@@ -1,20 +1,11 @@
-<h1 align="center">Приветствую! 👋</h1>
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/37796420?v=4" alt="Profile Image" width="200" height="200"/>
-</p>
 
 <h3 align="center">Python Developer</h3>
 
 ---
 
 ### 👨‍💻 Обо мне:
-
-- Я пишу код на **Python** и активно использую **Linux Ubuntu** для разработки и деплоя.
-- Вдохновляюсь идеями из open-source проектов и учусь чему-то новому каждый день.
-- Использую в работе различные библиотеки Python, такие как, Flask, Aiogram, Playwright, BeautifulSoup и многое другое.
-- Работаю с **SQL-базами** (PostgreSQL, MySQL) через **SQLAlchemy** и использую **Redis** для кеширования и управления очередями задач.
-- Постоянно совершенствуюсь и ищу новые возможности для роста.
+- Python разработчик. Linux, PostgreSQL, Redis.
+- Стек: Flask, Aiogram, Playwright, BeautifulSoup, SQLAlchemy.
 
 ---
 
@@ -26,6 +17,7 @@
   <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/-aiogram-2A9D8F?style=flat-square&logo=aiogram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-181717?logo=playwright&logoColor=2EAD33" />
   
   <!-- Базы данных и хранилища -->
   <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
@@ -73,9 +65,6 @@
   </a>
   <a href="https://t.me/@wlwool">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/wlzwool">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
